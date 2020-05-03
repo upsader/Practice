@@ -1,3 +1,2 @@
 # Practice
-Dicee Challenge
-Drum Kit
+Here is my practice :)

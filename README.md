@@ -1,3 +1,3 @@
 # Practice
-Dicee
+Dicee Challenge
 Drum Kit

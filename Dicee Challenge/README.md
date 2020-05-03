@@ -1,2 +1,0 @@
-# Dicee-Challenge
-Challenge
